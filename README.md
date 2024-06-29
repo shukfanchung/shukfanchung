@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on how to be a better programmer
-- 🌱 I’m currently learning about life....
-- 
+- 🔭 I’m currently working on how to be a better developer
+- 🌱 I’m currently learning about life
+  
 <!--
 **shukfanchung/shukfanchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
