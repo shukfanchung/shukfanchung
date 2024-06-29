@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on many personal projects
-- 🌱 I’m currently learning too many things!
+- 🌱 I’m currently learning about GitHub
 - 
 <!--
 **shukfanchung/shukfanchung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
